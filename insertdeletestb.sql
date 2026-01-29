@@ -54,4 +54,4 @@ WHERE aktiv = "nem"
 -- 10.
 
 DELETE FROM filmek
-WHERE cim = "Toy Story 4"
+WHERE cim = "Toy Story 4";
